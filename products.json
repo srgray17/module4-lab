@@ -1,0 +1,34 @@
+{
+  "products" : [
+    {
+      "name" : "A zombie chocolate bunny",
+      "price" : 45.00,
+      "details" : "The only thing better than a chocolate Easter bunny is a chocolate Easter bunny with an insatiable thirst for blood.",
+      "image" : "zombie-easter-bunny.png"
+    },
+    {
+      "name" : "A Godzilla garden gnome",
+      "price" : 24.99,
+      "details" : "Let those pesky, roving neighborhood gnomes know where they're not welcome.",
+      "image" : "godzilla-garden-gnome.png"
+    },
+    {
+      "name" : "Nothing",
+      "price" : 6.98,
+      "details" : "What do you get for the person who has everything? Nothing—literally. But unlike traditional nothing, this one will cost you almost $7.",
+      "image" : "nothing.png"
+    },
+    {
+      "name" : "Gardening claws",
+      "price" : 9.49,
+      "details" : "Now you can garden like the wild beast you are. Just be sure not to fall into any wild animal traps you may have set back when you were a poor, claw-less human.",
+      "image" : "gardening-claws.png"
+    },
+    {
+      "name" : "An air-blaster",
+      "price" : 24.99,
+      "details" : "They say this loud and terrifying thing is for fun with family and friends, but it seems better suited to enemies and nemeses.",
+      "image" : "air-blaster.png"
+    }
+  ]
+}
